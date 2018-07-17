@@ -1,0 +1,11 @@
+--2018-07-16 20:21:27--  http://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data
+Resolvendo archive.ics.uci.edu (archive.ics.uci.edu)... 128.195.10.249
+Conectando-se a archive.ics.uci.edu (archive.ics.uci.edu)|128.195.10.249|:80... conectado.
+A requisição HTTP foi enviada, aguardando resposta... 200 OK
+Tamanho: 19889 (19K) [text/plain]
+Salvando em: “breast-cancer-wisconsin.data”
+
+     0K .......... .........                                  100%  127K=0,2s
+
+2018-07-16 20:21:27 (127 KB/s) - “breast-cancer-wisconsin.data” salvo [19889/19889]
+
